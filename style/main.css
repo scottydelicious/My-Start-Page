@@ -1,0 +1,12 @@
+/* Start page app for Firefox */
+body {
+	background: #ddd;
+}
+
+div#workspace {
+	width: 950px;
+	background: #bbb;
+	border: 1px solid #444;
+	margin: 50px auto;
+	padding: 10px;
+}
